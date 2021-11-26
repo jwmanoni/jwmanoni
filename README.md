@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jwmanoni
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently a student at Marshall University studying data science
-- 💞️ I’m looking to collaborate on anything that can help me learn
+- 💞️ I’m looking to collaborate on anything that can help me learn and gain experience
 - 📫 How to reach me message me anytime at manoni1@marshall.edu
 
 <!---
